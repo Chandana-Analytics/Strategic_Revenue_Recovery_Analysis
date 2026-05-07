@@ -45,7 +45,7 @@ Customer Summary Analysis
 
 ![Executive Overview](02_Dashboard/Dashboard_Executive_Overview.png)
 
-# Customer Analysis
+### Customer Analysis
 
 ![Customer Analysis](02_Dashboard/Dashboard_Customer_Analysis.png)
 
