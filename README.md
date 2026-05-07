@@ -12,34 +12,33 @@ The project was built using feature engineering, customer segmentation, churn an
 To identify revenue leakage, reduce customer churn, and improve profitability by analyzing discount impact, customer value, product performance, and long-term revenue trends.
 
 ## Key KPIs Tracked
-Total Revenue
-Total Profit
-Profit Margin %
-Average Revenue Per Customer
-Customer Churn Rate
+- Total Revenue
+- Total Profit
+- Profit Margin %
+- Average Revenue Per Customer
+- Customer Churn Rate
 
 ## Analysis Areas Covered
-Revenue Leakage Analysis
-Discount Impact on Profitability
-Customer Value Segmentation
-Customer Churn Analysis
-Sub-Category Profitability Analysis
-Pareto Analysis (80/20 Rule)
-Monthly Revenue Forecast Analysis
+- Revenue Leakage Analysis
+- Discount Impact on Profitability
+- Customer Value Segmentation
+- Customer Churn Analysis
+- Sub-Category Profitability Analysis
+- Pareto Analysis (80/20 Rule)
+- Monthly Revenue Forecast Analysis
 
 ## Tools & Analytical Techniques Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Conditional Formatting
-Feature Engineering
-Customer Segmentation
-Churn Classification
-Pareto Analysis
-Forecasting
-Customer Summary Analysis
-
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Feature Engineering
+- Customer Segmentation
+- Churn Classification
+- Pareto Analysis
+- Forecasting
+ 
 ## Dashboard Preview
 ### Executive Overview
 
