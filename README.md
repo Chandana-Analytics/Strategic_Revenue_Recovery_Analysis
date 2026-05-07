@@ -61,21 +61,13 @@ Customer Summary Analysis
 - Future revenue growth looks positive, but sustainable profitability depends on reducing leakage and improving retention.
 
 ## Recommendations
-Reduce aggressive discounting on low-margin products
-Focus retention efforts on high-value and at-risk customers
-Improve low-performing sub-categories such as loss-making products
-Strengthen upselling strategies for medium-value customers
-Prioritize top-performing customers and products that drive most revenue
+- Reduce aggressive discounting on low-margin products
+- Focus retention efforts on high-value and at-risk customers
+- Improve low-performing sub-categories such as loss-making products
+- Strengthen upselling strategies for medium-value customers
+- Prioritize top-performing customers and products that drive most revenue
  
 ## Expected Business Outcome
 Improve overall profitability by controlling discount leakage, reducing churn, and focusing on high-value customers and profitable product categories. This helps protect revenue, improve margins, and support long-term business growth.
-
-Files Included
-Raw dataset
-Feature engineering table
-Customer summary table
-Analysis sheet
-Final interactive dashboard
-Dashboard screenshots
 
 This project was created as part of my data analytics portfolio to demonstrate business problem-solving, dashboard storytelling, and decision-focused analysis using Excel.
