@@ -43,9 +43,9 @@ Customer Summary Analysis
 ## Dashboard Preview
 ### Executive Overview
 
-![Executive Overview](03_Dashboard/Dashboard_Executive_Overview.png)
+![Executive Overview](03_Dashboard/dashboard1.png)
 
-### Customer Analysis
+# Customer Analysis
 
 (Add Dashboard_Customer_Analysis.png here)
 
