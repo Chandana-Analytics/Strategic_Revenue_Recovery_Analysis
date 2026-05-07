@@ -54,11 +54,11 @@ Customer Summary Analysis
 ![Strategic Insights](02_Dashboard/Dashboard_Strategic_Insights.png)
 
 ## Key Business Insights
-High discounting and a few loss-making sub-categories are reducing overall profitability.
-Medium-value customers generate the highest revenue, while high-value customers deliver stronger margins and better long-term value.
-Customer churn is mainly concentrated among inactive and low-engagement customers.
-A small group of customers and products contributes the majority of total revenue.
-Future revenue growth looks positive, but sustainable profitability depends on reducing leakage and improving retention.
+- High discounting and a few loss-making sub-categories are reducing overall profitability.
+- Medium-value customers generate the highest revenue, while high-value customers deliver stronger margins and better long-term value.
+- Customer churn is mainly concentrated among inactive and low-engagement customers.
+- A small group of customers and products contributes the majority of total revenue.
+- Future revenue growth looks positive, but sustainable profitability depends on reducing leakage and improving retention.
 
 ## Recommendations
 Reduce aggressive discounting on low-margin products
