@@ -47,11 +47,11 @@ Customer Summary Analysis
 
 # Customer Analysis
 
-(Add Dashboard_Customer_Analysis.png here)
+![Customer Analysis](02_Dashboard/Dashboard_Customer_Analysis.png)
 
 ### Strategic Insights
 
-(Add Dashboard_Strategic_Insights.png here)
+![Strategic Insights](02_Dashboard/Dashboard_Strategic_Insights.png)
 
 ## Key Business Insights
 High discounting and a few loss-making sub-categories are reducing overall profitability.
