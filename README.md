@@ -43,7 +43,7 @@ Customer Summary Analysis
 ## Dashboard Preview
 ### Executive Overview
 
-![Executive Overview](03_Dashboard/dashboard1.png)
+![Executive Overview](02_Dashboard/Dashboard_Executive_Overview.png)
 
 # Customer Analysis
 
