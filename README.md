@@ -1,11 +1,11 @@
 # Strategic Revenue Recovery : Root Cause And Predictive Analysis Of Customer Churn And Revenue Leakage.  
 ## Project Overview
 
-This project focuses on identifying revenue leakage, understanding customer churn, and improving overall profitability using Excel-based business analysis.
+- This project focuses on identifying revenue leakage, understanding customer churn, and improving overall profitability using Excel-based business analysis.
 
-The goal was to move beyond basic reporting and understand where profit is being lost, which customers create the most value, and what actions can help improve long-term business performance.
+- The goal was to move beyond basic reporting and understand where profit is being lost, which customers create the most value, and what actions can help improve long-term business performance.
 
-The project was built using feature engineering, customer segmentation, churn analysis, profitability analysis, Pareto analysis, monthly forecasting, and an interactive dashboard.
+- The project was built using feature engineering, customer segmentation, churn analysis, profitability analysis, Pareto analysis, monthly forecasting, and an interactive dashboard.
 
 ## Business Objective
 
