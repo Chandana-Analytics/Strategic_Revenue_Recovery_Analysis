@@ -42,15 +42,15 @@ To identify revenue leakage, reduce customer churn, and improve profitability by
 ## Dashboard Preview
 ### Executive Overview
 
-03_Dashboard/Dashboard_01_Executive_Overview.png
+![Executive Overview](03_Dashboard/Dashboard_01_Executive_Overview.png)
 
 ### Customer Analysis
 
-03_Dashboard/Dashboard_02_Customer_Analysis.png
+![Customer Analysis](03_Dashboard/Dashboard_02_Customer_Analysis.png)
 
 ### Strategic Insights
 
-03_Dashboard/Dashboard_03_Strategic_Insights.png
+![Strategic Insights](03_Dashboard/Dashboard_03_Strategic_Insights.png)
 
 ## Key Business Insights
 - High discounting and a few loss-making sub-categories are reducing overall profitability.
