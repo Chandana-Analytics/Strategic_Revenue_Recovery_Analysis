@@ -19,6 +19,13 @@ To identify revenue leakage, reduce customer churn, and improve profitability by
 - All money values are in USD ($).
 - File in this repo: Super_store_sales_data.xlsx
 
+- ## Definitions
+
+- **Revenue leakage:** an order where the profit is negative (the business lost money on it). These orders made up 20.4% of total revenue.
+- **Discount bands:** No Discount (0%), Low (up to 20%), Medium (21% to 50%), High (above 50%).
+- **Churned customer:** a customer who has not placed any order for more than 90 days. Days are counted up to the last date in the data (30 Dec 2017).
+- **Customer value tiers:** based on each customer's share of total revenue. High is 0.2% or more, Medium is 0.05% to under 0.2%, and Low is under 0.05%.
+
 
 
 ## Key KPIs Tracked
