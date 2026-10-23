@@ -16,7 +16,7 @@ To identify revenue leakage, reduce customer churn, and improve profitability by
 
 - Superstore sales dataset: 9,994 sales records, January 2014 to December 2017, US customers.
 - 793 unique customers.
-- All money values are in USD ($).
+- Money values are assumed to be in USD ($), as the data is from the US.
 - File in this repo: Super_store_sales_data.xlsx
 
 ## Definitions
