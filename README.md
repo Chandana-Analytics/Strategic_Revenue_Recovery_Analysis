@@ -19,7 +19,7 @@ To identify revenue leakage, reduce customer churn, and improve profitability by
 - All money values are in USD ($).
 - File in this repo: Super_store_sales_data.xlsx
 
-- ## Definitions
+## Definitions
 
 - **Revenue leakage:** an order where the profit is negative (the business lost money on it). These orders made up 20.4% of total revenue.
 - **Discount bands:** No Discount (0%), Low (up to 20%), Medium (21% to 50%), High (above 50%).
@@ -46,7 +46,7 @@ To identify revenue leakage, reduce customer churn, and improve profitability by
 * Pareto Analysis (80/20 Rule)
 * Monthly Revenue Forecast Analysis
 
-## Tools \& Analytical Techniques Used
+## Tools & Analytical Techniques Used
 
 * Microsoft Excel
 * Pivot Tables
