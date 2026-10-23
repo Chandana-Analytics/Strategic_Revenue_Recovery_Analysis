@@ -57,7 +57,6 @@ To identify revenue leakage, reduce customer churn, and improve profitability by
 * Customer Segmentation
 * Churn Classification
 * Pareto Analysis
-* Forecasting
 
 ## Dashboard Preview
 
