@@ -1,4 +1,4 @@
-# Strategic Revenue Recovery : Root Cause And Predictive Analysis Of Customer Churn And Revenue Leakage.
+# Strategic Revenue Recovery: Root Cause Analysis of Customer Churn and Revenue Leakage
 
 ## Project Overview
 
