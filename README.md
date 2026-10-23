@@ -74,20 +74,19 @@ To identify revenue leakage, reduce customer churn, and improve profitability by
 
 ## Key Business Insights
 
-* High discounting and a few loss-making sub-categories are reducing overall profitability.
-* Medium-value customers generate the highest revenue, while high-value customers deliver stronger margins and better long-term value.
-* Customer churn is mainly concentrated among inactive and low-engagement customers.
-* A small group of customers and products contributes the majority of total revenue.
-* Future revenue growth looks positive, but sustainable profitability depends on reducing leakage and improving retention.
+- **Higher discounts reduce profit.** Profit margin was +30% with no discount, +12% with Low discount, -20% with Medium and -119% with High discount.
+- **20.4% of revenue came from loss-making order lines.**
+- **Only 3 sub-categories lose money:** Tables (-$18K), Bookcases (-$3K) and Supplies (-$1K). Tables alone cause 79% of that loss.
+- **Medium-tier customers bring the most revenue ($1.15M).** High-tier customers have the best average profit margin (13.9%).
+- **357 of 793 customers (45%) are churned.**
+- **Monthly sales trend upward from 2014 to 2017.**
 
 ## Recommendations
 
-* Reduce aggressive discounting on low-margin products
-* Focus retention efforts on high-value and at-risk customers
-* Improve low-performing sub-categories such as loss-making products
-* Strengthen upselling strategies for medium-value customers
-* Prioritize top-performing customers and products that drive most revenue
-
+- Reduce discounts in the Medium and High bands.
+- Review pricing and discounts for Tables, Bookcases and Supplies.
+- Focus retention efforts on churned and at-risk customers, especially high-value ones.
+- Encourage Medium-tier customers to buy more, since they bring the most revenue but have a lower margin than High-tier customers.
 ## Expected Business Outcome
 
 Improve overall profitability by controlling discount leakage, reducing churn, and focusing on high-value customers and profitable product categories. This helps protect revenue, improve margins, and support long-term business growth.
