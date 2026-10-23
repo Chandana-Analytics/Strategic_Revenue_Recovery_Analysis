@@ -44,7 +44,7 @@ To identify revenue leakage, reduce customer churn, and improve profitability by
 * Customer Churn Analysis
 * Sub-Category Profitability Analysis
 * Pareto Analysis (80/20 Rule)
-* Monthly Revenue Forecast Analysis
+* Monthly Sales Trend Analysis
 
 ## Tools & Analytical Techniques Used
 
